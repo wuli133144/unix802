@@ -3,11 +3,7 @@
 
 ## Features
 * signal sigaction 
-*
-* 
-* 
-* 
-* 
+
 
 ## Installation
 Run:
