@@ -1,8 +1,8 @@
 ## About
-*
+*test sigaction 
 
 ## Features
-* 
+* signal sigaction 
 *
 * 
 * 
@@ -14,41 +14,11 @@ Run:
 ```
 git clone https://github.com/wuli133144/unix802.git
 ```
-and copy parson.h and parson.c to you source code tree.
+and copy main.c and mio_buf.h to you source code tree.
 
-Run ```make test``` to compile and run tests.
+Run ```gcc main.c``` to compile and run tests.
 
 ## Examples
-### Parsing JSON
-Here is a function, which prints basic commit info (date, sha and author) from a github repository.  
-```c
-<>
-```
-Calling ```<>;``` prints:  
-```
-D
-...
-```
-
-### Persistence
-In this example 
-```c
-<>
-```
-
-### Serialization
-Creating JSON values is very simple thanks to the dot notation. 
-Object hierarchy is automatically created when addressing specific fields. 
-In the following example I create a simple JSON value containing basic information about a person.
-```c
-
-
-```
-
-Output:
-```
-
-```
 
 ## Contributing
 
