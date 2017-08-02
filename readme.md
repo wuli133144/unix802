@@ -18,7 +18,7 @@ Run ```gcc main.c``` to compile and run tests.
 
 ## Contributing
 
-I will always merge *working* bug fixes. However, if you want to add something new to the API, please create an "issue" on github for this first so we can discuss if it should end up in the library before you start implementing it.
+I will always merge *working* bug fixes. However, if you want to add something new to the API, please create an "issue" on github for this first so i can study if it should end up in the library before you start implementing it.
 Remember to follow jackwu's code style and write appropriate tests.
 
 ## License
